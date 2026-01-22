@@ -355,7 +355,7 @@ export default function Home() {
         )}
 
         <footer className="mt-6 text-center text-sm text-zinc-500">
-          Using Pandoc + html-to-docx for conversion
+          Using Pandoc for conversion
         </footer>
       </div>
     </div>

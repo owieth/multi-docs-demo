@@ -190,10 +190,8 @@ multi-docs-demo/
 │   │   ├── layout.tsx            # Root layout
 │   │   ├── page.tsx              # Main UI with editor
 │   │   └── globals.css           # Global styles
-│   ├── lib/
-│   │   └── converter.ts          # PDF/DOCX conversion logic
-│   └── types/
-│       └── html-to-docx.d.ts     # Type declarations
+│   └── lib/
+│       └── converter.ts          # PDF/DOCX conversion logic
 ├── templates/
 │   └── pdf-template.html         # Legacy PDF template
 ├── package.json
