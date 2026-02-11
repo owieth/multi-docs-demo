@@ -2,6 +2,12 @@
 
 A Next.js proof-of-concept application that converts Markdown documents to both PDF and DOCX formats with **identical custom styling**. Users can customize fonts (via Google Fonts API), heading colors, and embed images.
 
+<div align="center">
+
+![Showcase](/public/showcase.png 'Showcase')
+
+</div>
+
 ## Features
 
 - Markdown editor with live preview
