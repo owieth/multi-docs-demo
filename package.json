@@ -2,6 +2,13 @@
   "name": "multi-docs-temp",
   "version": "0.1.0",
   "private": true,
+  "pnpm": {
+    "overrides": {
+      "minimatch": "9.0.9",
+      "flatted": "^3.4.2",
+      "ajv": "^6.14.0"
+    }
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -22,7 +29,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "eslint": "^9",
-    "eslint-config-next": "16.1.6",
+    "eslint-config-next": "16.1.7",
     "tailwindcss": "^4",
     "typescript": "^5",
     "prettier": "^3.8.1",
