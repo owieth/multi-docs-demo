@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       docx:
-        specifier: ^9.10.0
-        version: 9.10.0
+        specifier: ^9.12.0
+        version: 9.12.0
       marked:
         specifier: ^18.1.0
         version: 18.1.0
@@ -966,8 +966,8 @@ packages:
     resolution: {integrity: sha512-35mSku4ZXK0vfCuHEDAwt55dg2jNajHZ1odvF+8SSr82EsZY4QmXfuWso8oEd8zRhVObSN18aM0CjSdoBX7zIw==}
     engines: {node: '>=0.10.0'}
 
-  docx@9.10.0:
-    resolution: {integrity: sha512-ogiWhZvSTsN6+Pjs5uQrSdyR0TI6A1ou+cVzZ/b1mCfaoiW3cIzaUMnF4fISIA26QBq4xCz7r38GvjMZAYB3iw==}
+  docx@9.12.0:
+    resolution: {integrity: sha512-pRxdJP7cJpqhSxzfhlB01RToOFMAY7+QJ59zT2LowpXjS2q5fAnrvAuQIyGgkuBxTcXii0LFqM96GFjhQcTicQ==}
     engines: {node: '>=10'}
 
   dunder-proto@1.0.1:
@@ -2959,7 +2959,7 @@ snapshots:
     dependencies:
       esutils: 2.0.3
 
-  docx@9.10.0:
+  docx@9.12.0:
     dependencies:
       '@types/node': 26.6.5
       hash.js: 1.1.7
