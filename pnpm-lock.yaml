@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       docx:
-        specifier: ^9.15.4
-        version: 9.15.4
+        specifier: ^9.16.0
+        version: 9.16.0
       marked:
         specifier: ^18.2.0
         version: 18.2.0
@@ -962,8 +962,8 @@ packages:
     resolution: {integrity: sha512-35mSku4ZXK0vfCuHEDAwt55dg2jNajHZ1odvF+8SSr82EsZY4QmXfuWso8oEd8zRhVObSN18aM0CjSdoBX7zIw==}
     engines: {node: '>=0.10.0'}
 
-  docx@9.15.4:
-    resolution: {integrity: sha512-5UUTdR+eE7KVeNroYYt6K0Ixi9yez18BBKnypz3XyQSR8FsVYTiZ4vqKZr83JHjYPAgO+Tw7T/+13KyITpkgFw==}
+  docx@9.16.0:
+    resolution: {integrity: sha512-fvAuqxV0705bEQ9OGPLt6onJqufGJTMS+b7PtRxNktea+iPWYgc1zO+OQBMW9ZmRLj9THTnOeiAoxTDz2ub0Fw==}
     engines: {node: '>=16'}
 
   dunder-proto@1.0.1:
@@ -2912,7 +2912,7 @@ snapshots:
     dependencies:
       esutils: 2.0.3
 
-  docx@9.15.4:
+  docx@9.16.0:
     dependencies:
       '@types/node': 26.6.6
       fflate: 0.8.3
